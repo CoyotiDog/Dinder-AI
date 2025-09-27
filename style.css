@@ -1,0 +1,36 @@
+body { 
+    background:#2a4ada; 
+    color:rgb(0, 0, 0); 
+    font-family:monospace; 
+    padding:20px; }
+textarea, button, select, input[type=range], input[type=color] { 
+    width:100%; 
+    margin:5px 0; 
+    background:#000; 
+    color:rgb(199, 214, 199); 
+    border:1px solid rgb(188, 205, 188); 
+    padding:5px; }
+#chatOutput { 
+    border:1px solid rgb(46, 52, 46); 
+    padding:10px; 
+    height:200px; 
+    overflow-y:auto; 
+    white-space:pre-wrap; }
+canvas { 
+    border:1px solid rgb(30, 34, 30); 
+    margin-top:10px; display:block; }
+#settingsPanel { 
+    border:1px solid rgb(68, 69, 68); 
+    padding:10px; 
+    margin:10px 0; display:none; }
+h2 { margin:10px 0; }
+h1{
+  text-align: center;
+  color:aliceblue;
+  font-size: 50px;
+}a{
+  color:white;
+  text-align: center;
+  font-size: 20;
+  
+}
