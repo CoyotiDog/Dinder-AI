@@ -1,7 +1,5 @@
-//paramiters
-
-//target reddit subs
-var redditSubs = ["code","javscript","all"];
+//STUFF
+let redditSubs = ["code","javscript","all"];
 
 
 
@@ -232,3 +230,4 @@ document.addEventListener('keydown',e=>{
     });
   }
 });
+
